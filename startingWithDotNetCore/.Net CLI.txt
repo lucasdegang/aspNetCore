@@ -1,0 +1,7 @@
+Command Line Interface (CLI)
+
+Executar > cmd || powershell 
+
+--- comandos ---
+
+dotnet new 

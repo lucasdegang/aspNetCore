@@ -1,0 +1,1 @@
+# Versões e compatibilidade entre os frameworks .net
