@@ -1,7 +1,29 @@
-Command Line Interface (CLI)
+# Command Line Interface (CLI)
 
-Executar > cmd || powershell 
+---
 
---- comandos ---
+# Intro
 
-dotnet new 
+# terminal : cmd || powershell 
+
+# commands
+
+dotnet [ help ]
+dotnet [ command ] --help
+
+---
+
+# Gerenciamento de versões (.Net CLI)
+
+# Obs.: cuidar com versões sem suporte ou sem LTS.
+
+# Arquivo global.json 
+Pasta raiz do projeto (solution)
+Possui a versão do sdk utilizado na aplicação
+
+# Pasta física do sdk (estrutura e arquivos) cmd : dotnet --info
+Verificar diretorio do topico: .NET SDKs installed
+
+# commands
+
+dotnet [ --info ]

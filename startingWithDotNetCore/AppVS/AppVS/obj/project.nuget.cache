@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctVvRA2Ojh6hiUAQa2Pemu0yyEoR0tAWdHroFhcDhZE8DSQq1ZxVab/ctvdOnGhmHkmrl+gl10+xccbWbeY78w==",
+  "success": true,
+  "projectFilePath": "D:\\tech\\Projetos\\Visual Studio\\aspNetCore\\startingWithDotNetCore\\AppVS\\AppVS\\AppVS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.flor\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
