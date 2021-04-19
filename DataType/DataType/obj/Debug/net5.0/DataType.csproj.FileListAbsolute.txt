@@ -1,0 +1,16 @@
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\bin\Debug\net5.0\DataType.exe
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\bin\Debug\net5.0\DataType.deps.json
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\bin\Debug\net5.0\DataType.runtimeconfig.json
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\bin\Debug\net5.0\DataType.runtimeconfig.dev.json
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\bin\Debug\net5.0\DataType.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\bin\Debug\net5.0\ref\DataType.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\bin\Debug\net5.0\DataType.pdb
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\obj\Debug\net5.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\obj\Debug\net5.0\DataType.AssemblyInfoInputs.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\obj\Debug\net5.0\DataType.AssemblyInfo.cs
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\obj\Debug\net5.0\DataType.csproj.CoreCompileInputs.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\obj\Debug\net5.0\DataType.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\obj\Debug\net5.0\ref\DataType.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\obj\Debug\net5.0\DataType.pdb
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\obj\Debug\net5.0\DataType.genruntimeconfig.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\DataType\DataType\obj\Debug\net5.0\DataType.csprojAssemblyReference.cache
