@@ -18,7 +18,7 @@ namespace ClassFoundation
         
         static string SystemMessage(string user)
         {
-            return $"Bem vindo(a) {user}";
+            return $"Welcome {user}";
         }
     }
 }

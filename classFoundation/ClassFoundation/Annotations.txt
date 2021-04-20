@@ -28,3 +28,22 @@ Toda classe do C# é uma subclasse da classe Object
 # Construtor
    Obs.: Executa no momento da instanciação do objeto. 
          Sobrecarga é quando criamos um construtor com carga nos atributos.
+
+# Encapsulamento
+   Obs.: Consiste em esconder detalhes de implementação de um componente, expondo apenas operações
+         seguras. O objeto deve sempre estar em um estado consistente e a classe deve garantir isso.
+
+# Ordem sugerida para implementação de membros
+   > Atributos privados
+   > Propriedades autoimplementadas
+   > Construtores
+   > Propriedades customizadas
+   > Outros métodos da classe
+
+# Modificadores de acesso
+   > public
+   > protected internal
+   > internal
+   > protected
+   > private protected
+   > private

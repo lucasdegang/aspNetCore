@@ -8,7 +8,6 @@ namespace ClassFoundation.Processing
     {
         public void Processing()
         {
-            // class instance
             Employee e;
 
             Console.WriteLine("### Employee Costs");
@@ -29,6 +28,7 @@ namespace ClassFoundation.Processing
             Console.Write("Salary bonus in %: ");
             var bonusPercent = double.Parse(Console.ReadLine(), CultureInfo.CurrentCulture);
 
+            // class instance
             e = new Employee(name, salary, tax);
 
             e.SalaryPercentageGain(bonusPercent);

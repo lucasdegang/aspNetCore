@@ -7,9 +7,6 @@ namespace ClassFoundation.Processing
     {
         public void Processing()
         {
-            // class instance
-            
-
             Console.WriteLine("### Product Cadaster");
 
             Console.WriteLine();
@@ -28,7 +25,16 @@ namespace ClassFoundation.Processing
             Console.Write("Product Add Stock Quantity: ");
             int addQtdStock = int.Parse(Console.ReadLine());
 
-            Product p = new Product(name, price, qtdStock);
+            // class instance
+            
+            //Product p = new Product(name, price, qtdStock);
+            Product p = new Product
+            {
+                Name = name,
+                Price = price,
+                Quantity = qtdStock
+            };
+
             p.ProductAdd(addQtdStock);
 
             Console.WriteLine();
@@ -43,7 +49,6 @@ namespace ClassFoundation.Processing
             Console.WriteLine();
             //Console.WriteLine($"Product updated {p}");
             Console.WriteLine($"{p.ToString()}");
-
         }
     }
 }
