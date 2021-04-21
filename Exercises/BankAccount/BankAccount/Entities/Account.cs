@@ -1,4 +1,6 @@
-﻿namespace BankAccount.Entities
+﻿using System.Globalization;
+
+namespace BankAccount.Entities
 {
     public class Account
     {
@@ -20,7 +22,7 @@
 
         public override string ToString()
         {
-            return $"Account {IdAccount} user {UserName} balance {Balance}";
+            return $"Account {IdAccount} user {UserName} balance {Balance.ToString("F2", CultureInfo.CurrentCulture)}";
         }
 
         public void AddMoney(double deposit)
