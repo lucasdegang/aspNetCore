@@ -1,0 +1,16 @@
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\bin\Debug\net5.0\BankAccount.exe
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\bin\Debug\net5.0\BankAccount.deps.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\bin\Debug\net5.0\BankAccount.runtimeconfig.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\bin\Debug\net5.0\BankAccount.runtimeconfig.dev.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\bin\Debug\net5.0\BankAccount.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\bin\Debug\net5.0\ref\BankAccount.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\bin\Debug\net5.0\BankAccount.pdb
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\obj\Debug\net5.0\BankAccount.csprojAssemblyReference.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\obj\Debug\net5.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\obj\Debug\net5.0\BankAccount.AssemblyInfoInputs.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\obj\Debug\net5.0\BankAccount.AssemblyInfo.cs
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\obj\Debug\net5.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\obj\Debug\net5.0\BankAccount.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\obj\Debug\net5.0\ref\BankAccount.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\obj\Debug\net5.0\BankAccount.pdb
+D:\tech\Projetos\Visual Studio\aspNetCore\Exercises\BankAccount\BankAccount\obj\Debug\net5.0\BankAccount.genruntimeconfig.cache
