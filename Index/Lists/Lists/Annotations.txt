@@ -1,0 +1,8 @@
+﻿# Class List : Namespace System.Collections.Generic
+
+# Vantagens: 
+   > Tamanho variável
+   > Facilidade para inserções e deleções
+
+# Desvantagem 
+   > Acesso sequencial aos elementos

@@ -1,0 +1,16 @@
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\bin\Debug\net5.0\Vectors.exe
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\bin\Debug\net5.0\Vectors.deps.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\bin\Debug\net5.0\Vectors.runtimeconfig.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\bin\Debug\net5.0\Vectors.runtimeconfig.dev.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\bin\Debug\net5.0\Vectors.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\bin\Debug\net5.0\ref\Vectors.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\bin\Debug\net5.0\Vectors.pdb
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\obj\Debug\net5.0\Vectors.csprojAssemblyReference.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\obj\Debug\net5.0\Vectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\obj\Debug\net5.0\Vectors.AssemblyInfoInputs.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\obj\Debug\net5.0\Vectors.AssemblyInfo.cs
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\obj\Debug\net5.0\Vectors.csproj.CoreCompileInputs.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\obj\Debug\net5.0\Vectors.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\obj\Debug\net5.0\ref\Vectors.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\obj\Debug\net5.0\Vectors.pdb
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\Vectors\Vectors\obj\Debug\net5.0\Vectors.genruntimeconfig.cache

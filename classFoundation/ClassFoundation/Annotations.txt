@@ -8,6 +8,7 @@ Toda classe do C# é uma subclasse da classe Object
       ToString: converte o objeto para string
 
 # Membros de classe: atributos(dados/ campos), métodos(funções/ operações)
+
 # Recursos: Construtores, Sobrecarga, Encapsulamento, Herança, Polimorfismo.
 
 # Exemplos

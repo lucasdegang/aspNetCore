@@ -21,14 +21,24 @@
             return _y;
         }
 
-        public void SetS(string s)
-        {
-            _s = s;
-        }
-
         public string GetS()
         {
             return _s;
+        }
+
+        public void SetX(string x)
+        {
+            _x = x;
+        }
+        
+        public void SetY(string y)
+        {
+            _y = y;
+        }
+
+        public void SetS(string s)
+        {
+            _s = s;
         }
 
         // Encapsulation is make some protection of atributes in class
