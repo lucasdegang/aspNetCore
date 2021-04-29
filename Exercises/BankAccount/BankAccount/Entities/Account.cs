@@ -17,7 +17,7 @@ namespace BankAccount.Entities
         {
             UserName = userName;
             IdAccount = idAccount;
-            Balance = deposit;
+            AddMoney(deposit);
         }
 
         public override string ToString()

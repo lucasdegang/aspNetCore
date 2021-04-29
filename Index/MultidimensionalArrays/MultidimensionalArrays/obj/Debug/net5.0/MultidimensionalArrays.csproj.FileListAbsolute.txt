@@ -1,0 +1,16 @@
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net5.0\MultidimensionalArrays.exe
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net5.0\MultidimensionalArrays.deps.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net5.0\MultidimensionalArrays.runtimeconfig.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net5.0\MultidimensionalArrays.runtimeconfig.dev.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net5.0\MultidimensionalArrays.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net5.0\ref\MultidimensionalArrays.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net5.0\MultidimensionalArrays.pdb
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net5.0\MultidimensionalArrays.csprojAssemblyReference.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net5.0\MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net5.0\MultidimensionalArrays.AssemblyInfoInputs.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net5.0\MultidimensionalArrays.AssemblyInfo.cs
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net5.0\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net5.0\MultidimensionalArrays.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net5.0\ref\MultidimensionalArrays.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net5.0\MultidimensionalArrays.pdb
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net5.0\MultidimensionalArrays.genruntimeconfig.cache

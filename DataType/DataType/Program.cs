@@ -17,6 +17,12 @@ namespace DataType
             long n4 = 2147483648L;
             float n5 = 4.5f;
             double n6 = 4.5;
+
+            // nullable - 2 types to declare. Example.
+            Nullable<double> numNull1 = null;
+            double? numNull2 = null;
+            double? numNull3 = 10.0;
+
             String nome = "Maria Green";
             Object obj1 = "Alex Brown";
             Object obj2 = 4.5f;
@@ -32,6 +38,10 @@ namespace DataType
             Console.WriteLine("nome= " + nome);
             Console.WriteLine("obj1= " + obj1);
             Console.WriteLine("obj2= " + obj2);
+
+            Console.WriteLine("numNull1= " + numNull1.GetValueOrDefault());
+            Console.WriteLine("numNull2= " + numNull2.HasValue);
+            Console.WriteLine("numNull3= " + numNull3.Value);
         }
     }
 }

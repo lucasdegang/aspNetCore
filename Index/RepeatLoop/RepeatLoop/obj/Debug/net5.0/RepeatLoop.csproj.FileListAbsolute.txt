@@ -1,0 +1,16 @@
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\bin\Debug\net5.0\RepeatLoop.exe
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\bin\Debug\net5.0\RepeatLoop.deps.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\bin\Debug\net5.0\RepeatLoop.runtimeconfig.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\bin\Debug\net5.0\RepeatLoop.runtimeconfig.dev.json
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\bin\Debug\net5.0\RepeatLoop.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\bin\Debug\net5.0\ref\RepeatLoop.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\bin\Debug\net5.0\RepeatLoop.pdb
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\obj\Debug\net5.0\RepeatLoop.csprojAssemblyReference.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\obj\Debug\net5.0\RepeatLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\obj\Debug\net5.0\RepeatLoop.AssemblyInfoInputs.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\obj\Debug\net5.0\RepeatLoop.AssemblyInfo.cs
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\obj\Debug\net5.0\RepeatLoop.csproj.CoreCompileInputs.cache
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\obj\Debug\net5.0\RepeatLoop.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\obj\Debug\net5.0\ref\RepeatLoop.dll
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\obj\Debug\net5.0\RepeatLoop.pdb
+D:\tech\Projetos\Visual Studio\aspNetCore\Index\RepeatLoop\RepeatLoop\obj\Debug\net5.0\RepeatLoop.genruntimeconfig.cache
