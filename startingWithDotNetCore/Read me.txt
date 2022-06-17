@@ -1,8 +1,0 @@
-# Curso developer io - iniciando com ASP .net core 
-
-.Net Core SDK (para desenvolver aplicações)
-.Net Core Runtime (somente para rodar uma aplicação, ex.: server de produção)
-
-LTS - Long-term support
-	> Somente versões correntes e posteriores do LTS serão suportadas, as demais não terão suporte.
-	> Aproximadamente 5 anos de suporte
